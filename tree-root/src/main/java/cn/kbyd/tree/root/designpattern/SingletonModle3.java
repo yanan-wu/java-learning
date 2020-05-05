@@ -15,6 +15,4 @@ public class SingletonModle3 {
         return instance;
     }
 
-
-
 }

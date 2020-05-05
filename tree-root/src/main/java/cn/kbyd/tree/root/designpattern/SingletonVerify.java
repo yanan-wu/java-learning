@@ -14,7 +14,7 @@ public class SingletonVerify {
         verify();
 
         try {
-            reflection();
+//            reflection();
         } catch (Exception e) {
             e.printStackTrace();
         }
